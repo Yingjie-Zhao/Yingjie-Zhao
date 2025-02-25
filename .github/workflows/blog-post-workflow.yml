@@ -1,7 +1,17 @@
 name: Latest blog post workflow
-on: 
-  workflow_dispatch
 on:
+  workflow_dispatch:
+    inputs:
+        logLevel:
+          description: 'Log level'
+          required: true
+          default: 'information'
+          type: choice
+          options:
+            - information
+            - debug
+            - warning
+            - critical
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
