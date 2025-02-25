@@ -1,4 +1,6 @@
 name: Latest blog post workflow
+on: 
+  workflow_dispatch
 on:
   schedule:
     # Runs every hour
