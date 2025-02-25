@@ -21,6 +21,77 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 58.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 330 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                245 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+🌆 Daytime                437 commits         ██████████░░░░░░░░░░░░░░░   39.30 % 
+🌃 Evening                404 commits         █████████░░░░░░░░░░░░░░░░   36.33 % 
+🌙 Night                  26 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Tuesday                  194 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Wednesday                154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 180 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Friday                   111 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Saturday                 177 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Sunday                   136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Swift                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/YingJie-Zhao/YingJie-Zhao/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/02/2025 15:44:10 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
