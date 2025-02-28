@@ -13,10 +13,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Component Rendering Order in Next.js App Router](https://yingjiezhao.com/en/articles/Understanding-Component-Rendering-Order-in-Next.js-App-Router/)
-- [The First &quot;Biohazard&quot; in Internet History](https://yingjiezhao.com/en/articles/The-Morris-Internet-Worm/)
 - [Simple RAG Implementation with LangChain](https://yingjiezhao.com/en/articles/Simple-RAG-Implementation-with-LangChain/)
 - [Understanding the Essence of RAG](https://yingjiezhao.com/en/articles/Understanding-the-Essence-of-RAG/)
 - [VitePress Sidebar Auto-generation Implementation](https://yingjiezhao.com/en/articles/vitepress-sidebar-auto-generation/)
+- [Implementing iCloud Sync by Combining SwiftData with CKSyncEngine](https://yingjiezhao.com/en/articles/Implementing-iCloud-Sync-by-Combining-SwiftData-with-CKSyncEngine/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
