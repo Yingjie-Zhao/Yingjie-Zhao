@@ -42,16 +42,14 @@ Sunday                   192 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 42 mins             █████████████████████████   99.14 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2025 16:13:51 UTC
+ Last Updated on 30/07/2025 17:13:08 UTC
 <!--END_SECTION:waka-->
 <!-- 
 <h3 align="left">Connect with me:</h3>
