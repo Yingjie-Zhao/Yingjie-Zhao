@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [From LLM to Agent: A Deep Dive into AI Agent Architecture Evolution](https://yingjiezhao.com/en/articles/From-LLM-to-Agent-Architecture-Evolution/)
 - [Solving Markdown Newline Issues in LLM Stream Responses](https://yingjiezhao.com/en/articles/Solving-Markdown-Newline-Issues-in-LLM-Stream-Responses/)
 - [Understanding Component Rendering Order in Next.js App Router](https://yingjiezhao.com/en/articles/Understanding-Component-Rendering-Order-in-Next.js-App-Router/)
 - [Simple RAG Implementation with LangChain](https://yingjiezhao.com/en/articles/Simple-RAG-Implementation-with-LangChain/)
 - [Understanding the Essence of RAG](https://yingjiezhao.com/en/articles/Understanding-the-Essence-of-RAG/)
-- [VitePress Sidebar Auto-generation Implementation](https://yingjiezhao.com/en/articles/vitepress-sidebar-auto-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
