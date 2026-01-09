@@ -16,7 +16,9 @@
 - [Simple RAG Implementation with LangChain](https://yingjiezhao.com/en/articles/Simple-RAG-Implementation-with-LangChain/)
 <!-- BLOG-POST-LIST:END -->
 
+
 <!--START_SECTION:waka-->
+<!--
 **I'm an Early 🐤** 
 
 ```text
@@ -54,6 +56,7 @@ Mac                      5 hrs 11 mins       ███████████�
 
 
  Last Updated on 09/01/2026 09:19:52 UTC
+-->
 <!--END_SECTION:waka-->
 <!-- 
 <h3 align="left">Connect with me:</h3>
