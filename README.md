@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Yingjie Zhao</h1>
-<h3 align="left">A fullstack developer from China <img src="https://komarev.com/ghpvc/?username=yingjie-zhao&label=Profile%20views&color=0e75b6&style=flat" alt="yingjie-zhao" /> </h3>
+<img src="https://komarev.com/ghpvc/?username=yingjie-zhao&label=Profile%20views&color=0e75b6&style=flat" alt="yingjie-zhao" />
+<!-- <h3 align="left">A fullstack developer from China <img src="https://komarev.com/ghpvc/?username=yingjie-zhao&label=Profile%20views&color=0e75b6&style=flat" alt="yingjie-zhao" /> </h3> -->
 
 - 👨‍💻 All of my projects are available at [https://yingjiezhao.com](https://yingjiezhao.com)
 
